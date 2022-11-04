@@ -1,0 +1,89 @@
+[{
+		"name": "Doom Eternal Guide",
+		"description": "Descend to hell Doom Eternal Guide is a compendium of knowledge about this FPS. You will find here basic information about the game and learn about game modes. There's also an annex with a description of controls and requirements, as well as a FAQ section.",
+		"img": "https://guides.gamepressure.com/gfx/logos/640x384/980_442309219.jpg"
+	},
+	{
+		"name": "What is the main use of a PC in the Fortress of Doom?",
+		"description": "The old PC is located in the Doom Slayer's headquarters in the Fortress of Doom. This room is located under the captain's bridge. Initially, the computer has two locked files - File 1 and File 2. If you try to select and run File 2 then you will notice that it's protected with a password.",
+		"img": "https://guides.gamepressure.com/doom-eternal/gfx/word/851021609.jpg"
+	}, {
+		"name": "Does the game have microtransactions?",
+		"description": "No, Doom Eternal doesn't have any micropayments system and all items can be obtained by making regular progress in the game. This also applies to cosmetic items like hero skins and used weapons or animation types displayed after winning a match. None of these items can be purchased in the game for real money. New skins and other cosmetic items can only be unlocked by earning experience points in the game and advancing to new ranks.",
+		"img": "https://guides.gamepressure.com/doom-eternal/gfx/word/851021625.jpg"
+	}, {
+		"name": "Is Doom Eternal a more complex game than its predecessor?",
+		"description": "Yes, in our opinion, Doom Eternal is much more difficult and demanding than 2016' Doom. This is caused by several main factors - the opponents inflict more damage (also during the gameplay on a normal level of difficulty) and they move a lot. You can find less amount of supplies and items in the battle arenas, and you have to complete various arcade (platform) sections during many missions.",
+		"img": "https://guides.gamepressure.com/doom-eternal/gfx/word/851021640.jpg"
+	}, {
+		"name": "Does the game have the so-called Ironman mode?",
+		"description": "Yes, Doom Eternal has Ironman modes where death is permanent (permadeath). These two modes are:
+                    Ultra Nightmare - The hero's death is irreversible and you have to start the whole campaign all over again. There will be a marker at the place where you died earlier.
+                    Extra Life Mode - Irreversible death happens when you run out of all extra lives. This mode will also force you to start the game from the beginning.",
+		"img": "https://guides.gamepressure.com/doom-eternal/gfx/word/851021656.jpg"
+	},{
+		"name": "Does Doom Eternal work well on the consoles?",
+		"description": "Yes, the game is very well optimized, although this is at the expense of slightly lower quality of the graphics on basic console models. The game runs at 1080p/60fps on standard editions of PS4 and Xbox One. There were no performance issues or framerate drop downs while we were playing the game on the PlayStation 4 console. Also, the game seemed to be less stressful for the console than the previous part of the series - Doom. Unfortunately, the game in fixed 60 frames per second takes place at the expense of graphics quality - you will witness lower quality textures and lower quality character models. However, due to the very dynamic character of the game, this is not a serious problem in our opinion.",
+		"img": "https://guides.gamepressure.com/doom-eternal/gfx/word/851021671.jpg"
+	},
+	{
+		"name": "Can I complete the campaign in offline mode?",
+		"description": "Yes, although a permanent internet connection is recommended, it is not required to complete the single player campaign. Playing offline or temporarily losing your connection with the game servers may deprive you of the chance to earn experience points, advance to higher ranks and receive rewards while playing online. However, we are talking here exclusively about cosmetic items that do not affect the course of the game. All improvements of weapons and armor can be easily acquired and obtained while playing the game in offline mode.",
+		"img": "https://guides.gamepressure.com/doom-eternal/gfx/word/851021687.jpg"
+	}, {
+		"name": "Can I disable the so-called movie grain post-processing effect?",
+		"description": "Yes, Doom Eternal allows you to disable or restrict a filter called movie grain, which may prevent some players from enjoying the game. Doom Eternal also allows you to disable Motion Blur and Chromatic Aberration effects. This also applies to console versions.",
+		"img": "https://guides.gamepressure.com/doom-eternal/gfx/word/851021703.jpg"
+	}, {
+		"name": "Are there any collectibles in the game?",
+		"description": "Yes, Doom Eternal, like its predecessors, hides many secrets. Some collectibles can help you in the game and these benefits are extra lives, runes or upgrades to weapons and armor. However, the game also contains exclusive collector items and collectibles - code entries, figurines, albums and others.
+                    Check out the Secrets section in our world atlas - this chapter of our guide will allow you to easily find all secrets and collectibles available in every campaign level in 100%.",
+		"img": "https://guides.gamepressure.com/doom-eternal/gfx/word/851021718.jpg"
+	}, {
+		"name": "Can I return to the previous maps or locations?",
+		"description": "Fast Travel - the game unlock a fast travel option when you are near the completion point of a particular mission. This is a great way, for example, to return to places where you still can find some collectibles.",
+		"img": "https://guides.gamepressure.com/doom-eternal/gfx/word/851021734.jpg"
+	},
+	{
+		"name": "Are there any puzzles in the game?",
+		"description": "Yes, you have to solve small environmental puzzles during the game. These may concern, for example, finding the key and getting to the right door with it, passing a more complex climbing section, crossing through a location with traps, or picking up the battery and delivering it to its place of use.",
+		"img": "https://guides.gamepressure.com/doom-eternal/gfx/word/851021750.jpg"
+	}, {
+		"name": "Can I jump from a great height?",
+		"description": "You can jump from great heights without any fear, because the hero's armor is able to absorb any fall. However, you have to watch out for dangerous types of ground like toxic waste, lava, electrified floors etc.",
+		"img": "https://guides.gamepressure.com/doom-eternal/gfx/word/851021765.jpg"
+	}, {
+		"name": "Is the whole game played in the FPP view?",
+		"description": "The game can depict the action from a different perspective, for example, while displaying a cutscene. This is also one of the very few opportunities to admire the armor of the main character. The appearance of your armor can be modified by cosmetic items.",
+		"img": "https://guides.gamepressure.com/doom-eternal/gfx/word/851021781.jpg"
+	}, {
+		"name": "Is it possible to save the game manually?",
+		"description": "Unfortunately, no. All saves are made automatically by the game. The game reports the creation of a new checkpoint by a message displayed in the upper-right corner of the screen. Auto save usually occurs when you enter a new larger location.",
+		"img": "https://guides.gamepressure.com/doom-eternal/gfx/word/851021796.jpg"
+	},{
+		"name": "How do I explore the entire map?",
+		"description": "On the 3D map, green is used to mark the sites which were already visited and grey is used to mark the locations that can be explored. If possible, you should always explore 100% of the map to be sure that you have found all the secrets hidden in this specific stage. For more information about how to navigate and use the map, please check the separate chapter of our guide ",
+		"img": "https://guides.gamepressure.com/doom-eternal/gfx/word/851021812.jpg"
+	},
+	{
+		"name": "Is the BFG the best weapon in the game?",
+		"description": "BFG 9000 is one of the top weapons in Doom Eternal. However, it cannot be called the absolute best weapon. Other equally powerful weapons include:
+                 Unmaykr - A unique weapon awarded for delivering 6 keys from Slayer Gates (optional arenas) to the Fortress of Doom. Like the BFG, it performs well in area attacks.
+                 Crucible sword - It has a different use. The weapon is great for killing individual powerful demons. The advantage is that almost all demons will die from a single swing.",
+		"img": "https://guides.gamepressure.com/doom-eternal/gfx/word/851021828.jpg"
+	}, {
+		"name": "Why can't I jump?",
+		"description": "As you play the main campaign of Doom Eternal, you may experience a problem of not being able to jump. This is due to the contact with the purple substance that totally 'grounds' the character and sticks your hero to the ground. As long as you have this slime on your body you won't be able to jump. You must exit the purple area, and only then you can jump again (also in order to use long jumps / dashes in order to jump out of the purple slime maze).",
+		"img": "https://guides.gamepressure.com/doom-eternal/gfx/word/851021843.jpg"
+	}, {
+		"name": "What editions of Doom Eternal are available?",
+		"description": "Standard Edition - contains just a single copy of the basic version of the game.
+                     Deluxe Edition - in addition to the main game, it offers a one-year season pass (two additional DLCs), a Demonic Slayer skin, and classic weapon sounds.
+                     Collector's Edition - it offers the contents of the Deluxe Edition and some other features like a steel box, a cassette with soundtracks from Doom and Doom Eternal, a Doom Lore Book, a litograph and a full-size helmet of the main character.",
+		"img": "https://guides.gamepressure.com/doom-eternal/gfx/word/851021859.jpg"
+	}, {
+		"name": "Can I play Doom Eternal comfortably on a gaming controller?",
+		"description": "Even the console version of the game has very advanced control settings. The picture above shows a list of settings and their default values. Although targeting assistants are enabled by default, there is no clear sense of interference from their side. For more experienced players, two issues will be problematic - slow character rotation and difficult targeting at weak spots of enemy demons. In both cases, you can try to increase the sensitivity of the analog knobs and reduce the level of the aiming assistants, or completely disable all the facilitations.",
+		"img": "https://guides.gamepressure.com/doom-eternal/gfx/word/851021875.jpg"
+	}
+]
